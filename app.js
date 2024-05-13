@@ -64,9 +64,5 @@ function apagar(id){
     })
 }
 
-apagar(44)
-
-
-//inserir("guzin","1234","guzin@gmail.com")
 
 connection.end()
